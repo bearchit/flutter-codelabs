@@ -58,6 +58,13 @@
             </list>
           </value>
         </entry>
+        <entry key="intl">
+          <value>
+            <list>
+              <option value="/data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="matcher">
           <value>
             <list>
@@ -90,6 +97,13 @@
           <value>
             <list>
               <option value="/data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="shrine_images">
+          <value>
+            <list>
+              <option value="/data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shrine_images-1.1.1/lib" />
             </list>
           </value>
         </entry>
@@ -165,11 +179,13 @@
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.2/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/english_words-3.1.5/lib" />
+      <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.15.8/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.5/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.7/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib" />
+      <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shrine_images-1.1.1/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib" />
       <root url="file:///data/home/bearchit/dev/sdk/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.0.0/lib" />

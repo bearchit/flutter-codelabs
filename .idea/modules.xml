@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/friendlychat/friendlychat.iml" filepath="$PROJECT_DIR$/friendlychat/friendlychat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mdc_100_series/mdc_100_series.iml" filepath="$PROJECT_DIR$/mdc_100_series/mdc_100_series.iml" />
       <module fileurl="file://$PROJECT_DIR$/startup_namer/startup_namer.iml" filepath="$PROJECT_DIR$/startup_namer/startup_namer.iml" />
     </modules>
   </component>
